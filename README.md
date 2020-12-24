@@ -41,6 +41,8 @@ pip install python-camellia
 
 * decrypt the data
 
+* the plaintext is padded with zeros to match 32bytes block
+
 * flag is: **ndh2k16_babafafa58941**
 
 ```
